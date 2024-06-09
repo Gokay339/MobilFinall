@@ -20,8 +20,8 @@ class _MonitorScreenState extends State<MonitorScreen> {
       "id": 85,
       "name": "KOORUI 165HX",
       "in-stock": false,
-      "price": 11000.00,
-      "photo": "assets/images/monitor1.jpg",
+      "price": 12000.00,
+      "photo": "assets/images/monitor3.jpg",
     },
     {
       "id": 84,
@@ -35,7 +35,7 @@ class _MonitorScreenState extends State<MonitorScreen> {
       "name": "ASUS VYG",
       "in-stock": true,
       "price": 8750,
-      "photo": "assets/images/monitor3.jpg",
+      "photo": "assets/images/monitor1.jpg",
     },
   ];
 
